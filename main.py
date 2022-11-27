@@ -186,6 +186,7 @@ def play():
         else:
             playing = False
 
-
+            
+# Run the play function to play
 play()
 
